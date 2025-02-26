@@ -40,9 +40,6 @@ python steganography_gui.py
 ![image](https://github.com/user-attachments/assets/705c8221-3ecb-4be5-844d-2f28087ed9b8)
 ![image](https://github.com/user-attachments/assets/500a6a9e-1e31-4fa3-8780-69ba26ed277b)
 
-🎥 Video Explanation
-![image](https://github.com/user-attachments/assets/5b99d6e1-2ac0-4eb2-ae2f-5c9c19e4ca64)
-
 
 📜 License
 This project is open-source and available under the MIT License.
